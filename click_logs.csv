@@ -1,0 +1,3 @@
+timestamp,ip,url,user_agent,fraud_probability,fraud,clicks_per_ip,time_gap,hour,referrer_missing
+2026-04-12T07:11:58.227377,127.0.0.1,https://www.sreyas.ac.in,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",0.0,0,1,999,12,0
+2026-04-12T07:12:05.766890,127.0.0.1,https://www.sreyas.ac.in,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",0.0,0,2,7.54,12,0
